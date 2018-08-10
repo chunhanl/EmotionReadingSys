@@ -1,4 +1,4 @@
-# EmtionReadingSystem Readme
+# EmtionReadingSystem
 
 ## Motivation
 A speaker must have the ability to read the feeling of the audience. In order to provide the speaker an immediate feedback from the audience's reaction, we propose an emotion-reading system, which is based on the analysis of the facial emotion of the audience, to let the speaker decide on what to say in the next couple of minutes. 
