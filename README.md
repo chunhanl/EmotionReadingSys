@@ -15,7 +15,7 @@ By the emotion score, it may serve as an indicator of the response of the audien
 ![](https://i.imgur.com/9GluFVv.gif)   
     
 
-![](https://i.imgur.com/PsaEQRj.gif)
+![](https://user-images.githubusercontent.com/18246639/43982695-ff1a5360-9cab-11e8-83fb-12cbbb8130fc.gif)
 
 
 
